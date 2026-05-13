@@ -1,11 +1,11 @@
-# Retail Analytics Dashboard
+Retail Analytics Dashboard
 
-## Project Overview
+Project Overview
 This project analyzes retail sales data using SQL, Python, Excel, and Power BI to uncover business insights and visualize sales performance.
 
 ---
 
-## Tools & Technologies
+Tools & Technologies
 - Excel
 - MySQL
 - Python
@@ -13,7 +13,7 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 
 ---
 
-## Project Workflow
+Project Workflow
 1. Data Cleaning using Excel/Python
 2. SQL business query analysis
 3. Exploratory Data Analysis in Python
@@ -21,7 +21,7 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 
 ---
 
-## Key Insights
+Key Insights
 - Technology category generated highest sales
 - West region contributed highest profit
 - Monthly sales trends identified
@@ -29,14 +29,13 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 
 ---
 
-## Files Included
+Files Included
 - `Dashboard.pbix` → Power BI dashboard
 - `analysis.ipynb` → Python analysis notebook
 - `business_queries.sql` → SQL queries
 - `Cleaned_sales_data.csv` → Clean dataset
-- `dashboard ss.png` → Dashboard screenshot
+- `dashboard Preview.png` → Dashboard screenshot
 
 ---
 
-## Dashboard Preview
-(Add your screenshot here)
+
